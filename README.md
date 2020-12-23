@@ -20,3 +20,6 @@ This project was created at my time at Code Chrysalis as a student. It was a pro
 this mean? In short, it's to engage students in their abilities to adapt and learn new/updating technologies quickly. 
 I chose to learn Python as I had never used it before, and this project was made within the 5 day period that we were 
 given.
+
+# License
+MIT © tlightk
